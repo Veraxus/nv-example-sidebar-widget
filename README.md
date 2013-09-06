@@ -2,7 +2,7 @@
 
 A simple, functional WordPress plugin that serves as an example for creating new "sidebar" widgets.
 
-## Description ##
+### Description ###
 
 This plugin serves as a simple, functional, documented example for creating WordPress "sidebar" widgets. If you are not a developer, this plugin won't do anything for you.
 
@@ -10,7 +10,7 @@ Developing sidebar widgets can be strange things to wrap your head around, and t
 
 This example is part of the NOUVEAU WordPress framework. For more great starting code, search for "Nouveau" in the WordPress.org's plugins or visit [www.nouveauframework.com]
 
-== Changelog ==
+### Changelog ###
 
-= 0.1 (2013/09/06) =
+#### 0.1 ( 2013/09/06 ) ####
 * Initial beta. Uploaded to github.
