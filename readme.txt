@@ -1,4 +1,4 @@
-=== Example Sidebar Widget (Nouveau) ===
+=== NOUVEAU Sidebar Widget Example ===
 Contributors: 
 Tags: 
 Requires at least: 3.6

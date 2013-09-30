@@ -1,4 +1,4 @@
-## Example Sidebar Widget (Nouveau) ##
+## NOUVEAU Sidebar Widget Example ##
 
 A simple, functional WordPress plugin that serves as an example for creating new "sidebar" widgets.
 

@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Example Sidebar Widget (Nouveau)
+Plugin Name: NOUVEAU Sidebar Widget Example
 Plugin URI: http://nouveauframework.com/plugins/
 Description: A simple, functional plugin that serves as an example for creating new WordPress "sidebar" widgets.
 Author: Matt Van Andel
