@@ -9,10 +9,7 @@ Author URI: http://mattstoolbox.com/
 License: GPLv2 or later
 */
 
-/**
- * Finally, we'll go ahead and hook this widget from here (to keep things self-contained). To make sure this loads,
- * remember to require THIS file (ExampleWidget.php) from within the theme's functions.php
- */
+// We'll initialize the widget class from here, for simplicity
 add_action( 'widgets_init', array('NV_Example_Widget','register'));
 
 /**
