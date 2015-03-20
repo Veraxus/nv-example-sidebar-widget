@@ -1,9 +1,12 @@
 === NOUVEAU Sidebar Widget Example ===
-Contributors: 
+Contributors: Veraxus
 Tags: 
+Requires PHP: 5.3
 Requires at least: 3.6
-Tested up to: 3.8
-Stable tag: 0.1
+Tested up to: 4.2
+Stable tag: 0.2
+GitHub Plugin URI: veraxus/nv-example-sidebar-widget
+
 
 A simple, functional plugin that serves as an example for creating new WordPress widgets.
 
